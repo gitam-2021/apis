@@ -1,0 +1,7 @@
+{
+    "cd": {
+        "type": "default",
+        "short_content":"The cd command changes your current directory location. By default, your Unix login session begins in your home directory.",
+        "more_content": "For more information and examples visit [Introduction to Unix Commands](https://kb.iu.edu/d/afsk)."
+    }
+}
